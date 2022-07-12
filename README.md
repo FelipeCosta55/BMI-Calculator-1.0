@@ -9,8 +9,11 @@ BMI = weight / height ^2
 ![image](https://user-images.githubusercontent.com/103581869/178396652-2dca4a12-5f7a-4088-b837-6dc98b68b1ea.png)
 
 Example Input
+
 weight = 80
 height = 1.75
+
 Example Output
+
 80 ÷ (1.75 x 1.75) = 26.122448979591837
 26
